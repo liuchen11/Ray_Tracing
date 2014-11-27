@@ -1,0 +1,51 @@
+﻿生成启动时间为 2013/6/29 2:00:38。
+     1>项目“G:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\ray-tracing.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ray-tracing.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\C++\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\colour.h(36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\colour.h(37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\colour.h(38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\colour.h(54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\colour.h(55): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\colour.h(56): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(37): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(64): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(68): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(69): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(72): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(73): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(111): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(112): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(113): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(170): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\grain.h(170): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\poly.h(102): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\poly.h(119): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\poly.h(152): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\poly.h(152): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\poly.h(152): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\poly.h(214): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\C++\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\Debug\ray-tracing.exe" /INCREMENTAL /NOLOGO opencv_contrib231d.lib opencv_core231d.lib opencv_features2d231d.lib opencv_highgui231d.lib opencv_imgproc231d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ray-tracing.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\Debug\ray-tracing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\Debug\ray-tracing.lib" /MACHINE:X86 "Debug\ray-tracing.exe.embed.manifest.res"
+         Debug\camera.obj
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ray-tracing.exe.embed.manifest" /manifest "Debug\ray-tracing.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         ray-tracing.vcxproj -> G:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\Debug\ray-tracing.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ray-tracing.unsuccessfulbuild”。
+         正在对“Debug\ray-tracing.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\2012-2013-2\计算机图形学基础\作业提交\光线跟踪\ray-tracing\src\ray-tracing\ray-tracing\ray-tracing.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.84
